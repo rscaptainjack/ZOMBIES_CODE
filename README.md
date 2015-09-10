@@ -21,18 +21,26 @@ What's been changed?
 *zombie loot change note*
 Added loot/vest good idea Ancient came up with lets players loot a vest if in bambi gear we originally added to zombies clothes.
 
-For repackaged tested server go to here:  
+For repackaged tested server go to here:  https://github.com/rscaptainjack/EXILE_Z
 
 
 How to install:
 1. Download the script from: https://github.com/rscaptainjack/ZOMBIES_CODE
+
 2. Add zombie folder into your mpmission folder
+
 3. Update mission.sqm with one in the download it's custom made to run Ryanzombies
+
 4. Add updated version of @Ryanzombies to server folder download at http://www.armaholic.com/page.php?id=28958
+
 5. Add @Ryanzombies RyanD.bikey to keys folder in server folder
+
 6. edit your custom init.sqf to be same as one in download or use the one supplied
+
 7. Edit zombie\init.sqf for custom loot and spawn rates
+
 8. Repack your mission .pbo
+
 
 Start Server with command -mod=@Exile;@Ryanzombies if you uncertain see the .bat in the repackaged build
 
