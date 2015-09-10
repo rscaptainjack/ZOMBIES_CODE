@@ -22,7 +22,7 @@ What's been changed?
 *zombie loot change note*
 Added loot/vest good idea Ancient came up with lets players loot a vest if in bambi gear we originally added to zombies clothes.
 
-For repackaged tested server go to here:  
+For repackaged tested server go to here:  https://github.com/rscaptainjack/EXILE_Z
 
 
 How to install:
