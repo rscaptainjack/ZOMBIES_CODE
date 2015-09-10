@@ -1,5 +1,5 @@
 zombielimit=9;		//zombies respawn afterdead, but for each unit in zone, 7 zombies will spawn
-zombiedamage=10;	//% of the damage of a zombie for a punch
+zombiedamage=20;	//% of the damage of a zombie for a punch
 zombierun = 0; 		//set 1 if zombie must run, 0 if they must walk
 respawntime = 180;	//time for respawn killed zombies
 zdebugging = 0;	//show the debug stats; enable with 1
