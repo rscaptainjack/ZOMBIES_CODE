@@ -1,4 +1,6 @@
 
+13/09/2015 - Added the custom file "mission.sqm" for class Missions checks without it anyone can join server without the zombie mod and won't see the zombies and can die form nothing.
+
 EXILE-Z Build v3.0 Remake 
 Yes it's been remade from code34 framework the zombies now only use triggers on map on testing the random spawner system was lagging server bad with 20 players.
 All towns on Altis have been added to init it's up to you guys to add in other maps from A3 editor you only need
@@ -40,8 +42,9 @@ How to install script:
 5. update and install Ryan's mod if dont have it here: 
 6. Add mod keys to keys folder in A3 Server
 7. repack mpmission .pbo
-9. Download and add Zombies & Demons + key to server folder Download Here: http://www.armaholic.com/page.php?id=28958
-8. Load server wih parameters:  -mod=@Exile;@Ryanzombies      
+8. Download and add Zombies & Demons + key to server folder Download Here: http://www.armaholic.com/page.php?id=28958
+9. Load server wih parameters:  -mod=@Exile;@Ryanzombies   
+10. Replace the mission.sqm with custom one to force players to have ryanzombies on loading into to server    
 Your all done!
 
 How to install Repacked server:
