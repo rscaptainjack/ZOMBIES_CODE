@@ -1,5 +1,5 @@
 /*
-EXILE-Z Project v3.1 - Edit for EXILE by SAM and CaptionJack of RelentlessServers.com
+EXILE-Z Project v3.0 - Edit for EXILE by SAM and CaptionJack of RelentlessServers.com
 Thanks to code34 for better spawn system the core is based on Civilian Life by code34
 */
 	private ["_allunits","_buildings","_civil","_index","_group","_position","_positions"];
@@ -21,10 +21,7 @@ Thanks to code34 for better spawn system the core is based on Civilian Life by c
 	} foreach (units _group);
 	
 	_position = position (leader _group);
-
-	if (zA2Building == 1) then {_buildings = nearestObjects[_position,["Land_House_L_1_EP1"], ZOMdistancemove];
-    }else{_buildings = nearestObjects[_position,["House_F"], ZOMdistancemove]; };
-	
+	_buildings = nearestObjects[_position,["House_F"], ZOMdistancemove];
 	sleep 1;
 
 	{
