@@ -3,7 +3,7 @@ EXILE-Z Project v3.1 - Edit for EXILE by SAM and CaptionJack of RelentlessServer
 Thanks to code34 for better spawn system the core is based on Civilian Life by code34
 */
 	if(!(isserver) and !(ZOMusehclient)) exitwith {};
-	if(!(!hasInterface && !isServer && name player == ZOMhclientname) and ZOMusehclient) exitwith {};
+	if(!hasInterface && !isServer && name player != ZOMhclientname) exitwith {}; 
 
  private ["_selections","_selection","_olddamage","_damage","_target","_allunits","_back","_buildings","_civil","_civiltype","_civilrole","_index","_group","_number","_position","_positions","_start","_trigger","_zvest","_zloot","_zbag","_izloot","_target","_ntargets","_targets","_unitsaround"];
 
