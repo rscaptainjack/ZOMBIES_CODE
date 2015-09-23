@@ -1,5 +1,8 @@
 Updated code will always be in NEW_CODE
 
+Added Modless Zombie spawning script - 23/09/2015 
+
+
 UPDATE v3.1 For EXILE 0.9.20T - This version should work with upcoming patches
 Change notes:
 * Removed need for custom mission.sqm to be added should be more map friendly now
