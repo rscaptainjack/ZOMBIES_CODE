@@ -27,7 +27,7 @@ What's going to be done: (No ETA on this it takes time Real Life comes first)
 
 
 HOW TO INSTALL - backup your mpmission 1st
-1 Download the Script form HERE: https://github.com/rscaptainjack/ZOMBIES_CODE/MODLESS_ZOMBIES
+1 Download the Script form HERE: https://github.com/rscaptainjack/ZOMBIES_CODE/tree/master/MODLESS_ZOMBIES
 2 copy files in .rar/.zip file to your mpmission folder of choice
 3 update your init.sqf with command in scripts init.sqf or add the init.sqf file to your mpmission
 4 add #include "zombie\zed.cpp" just above #include "config.cpp" in description.ext
