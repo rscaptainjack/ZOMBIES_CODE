@@ -1,0 +1,46 @@
+
+UPDATE v3.2 - tested on 0.9.34 - Will work with future versions
+
+What is this script? it's a unit spawner script used to spawn in AI in any map it's setup to be easy to use in this case it's been used as
+a zombie spawner for Ryans Zombies and Demons it can do so much more it can also spawn AI from other mods. 
+
+
+This update has a few changes you will find 3 types of .zip files in the new code folder each one is listed below. The files also have
+readme.txt added to .zip folder with install instructions.
+
+Spawner_v3.1B.zip - Features: Old v3.1 script with added fixes
+* Updated community triggers
+* New Setting to remove AI from trader zones
+* Fixed reported _back RPT error
+
+Spawner_v3.2.zip - Features: Most of this update is optimization
+* Can now choose to have AI walk (move around) or stand still and wait
+* Changes to Headless Client settings 
+* Updated note on ZOMcivilianside
+* Settings on spawn size optimized by default
+* Advanced FPS Settings added - is optional and not needed
+* New Setting to remove AI from trader zones
+* Fixed reported _back RPT error
+* Updated community triggers
+
+Spawner_v3.2_Serverside.zip - Features: This is made to run server side in the @ExileServer addons folder you will need a PBO tool
+* Can now choose to have AI walk (move around) or stand still and wait
+* Changes to Headless Client settings 
+* Updated note on ZOMcivilianside
+* Settings on spawn size optimized by default
+* Advanced FPS Settings added - is optional and not needed
+* New Setting to remove AI from trader zones
+* Fixed reported _back RPT error
+* Updated community triggers
+- All settings can be found in init\fn_init.sqf it runs the same as Spawner_v3.2.zip only server side helps client performance. 
+
+Old_Spawnerv1.3.zip - Old system not updated left it alone packed into .zip
+
+TOOL FOLDER: This tool is used to Decode .sqm and ccp files enjoy!
+
+
+Zombies & Demons Download link: http://www.armaholic.com/page.php?id=28958
+
+
+Edited by Captainjack - https://github.com/rscaptainjack
+

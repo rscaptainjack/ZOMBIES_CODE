@@ -1,1 +1,0 @@
-[] execVM "ZOM\init.sqf";

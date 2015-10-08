@@ -1,5 +1,15 @@
 Updated code will always be in NEW_CODE
 
+
+ 09/10/2015 - Updated NEW_CODE with new Zombie spawner systems 3 types in .zip folders see readme in NEW_CODE 
+
+ Modless code progress: 09/10/2015
+ We are working on updating takes time will be done soon
+
+
+ 
+ ---- OLD INFO -----
+ 
 Added Modless Zombie spawning script - 23/09/2015 
 
 
